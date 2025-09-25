@@ -1,31 +1,26 @@
-# 👋 Hi, I’m Rupesh Sharma  
+# Hey there :wave:
 
-💻 B.Tech CSE Student | 🎯 Exploring Full Stack & Hackathon Projects  
-🚀 Learning C++ | DSA | Web Development | AI/ML  
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
----
 
-## 🔧 Tech Stack
-- Languages: **C++, Python, Java**  
-- Frontend: **HTML, CSS, React.js**  
-- Backend: **Node.js, Express**  
-- Database: **MongoDB, MySQL**  
-- Tools: **Git, GitHub, VS Code**  
 
----
+## About me
 
-## 🌱 What I’m up to
-- Learning **Data Structures in C++**  
-- Exploring **Hackathon problem solving**  
-- Building **gamified learning platform** (SIH prep)  
+Hi there 👋, I’m Rupesh Sharma
 
----
+💻 Computer Science Student | C++ & Web Developer | Hackathon Enthusiast
 
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=n1rupesh&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1rupesh&layout=compact&theme=radical)  
+I’m passionate about building projects, solving problems, and learning new technologies. With a strong foundation in C++, Data Structures & Algorithms, and Web Development, I love exploring how things work under the hood and crafting solutions that are both useful and elegant.
 
----
+✨ What I do:
 
-## 📫 Connect with me
-- Email: **rupeshsharma.io@rediffmail.com**  
+🚀 Develop projects using C++, JavaScript, React, Node.js
+
+🛠️ Work with Databases (SQL, Firebase, MongoDB)
+
+🌐 Build and deploy web apps & APIs
+
+
+
+
+
